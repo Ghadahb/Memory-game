@@ -1,15 +1,16 @@
 
 * {
-  padding: 1.5px;
+  padding: 0px;
   margin: 0px;
   box-sizing: border-box;
   align-items: center;
   justify-content: center;
+
 }
 
 body {
-  background-image: url("https://lp-cms-production.imgix.net/2021-05/shutterstockRF_1563449509.jpg?auto=format&fit=crop&sharp=10&vib=20&ixlib=react-8.6.4&w=850");
-background: ;
+background-image: url("http://dslv9ilpbe7p1.cloudfront.net/ZLEmH4ykBYRIjyfh7ld6Mw_store_banner_image.jpeg");
+
 }
 
 .App {
